@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">532498153331-79g6catv31p0cvjdgab6gko5kh5jacln.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">532498153331</string>
+    <string name="google_api_key" translatable="false">AIzaSyAMHyWTUsj0A1EDA0ngQH4VQWcHVzLQ70k</string>
+    <string name="google_app_id" translatable="false">1:532498153331:android:6156dc77216b47836a4f06</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAMHyWTUsj0A1EDA0ngQH4VQWcHVzLQ70k</string>
+    <string name="google_storage_bucket" translatable="false">blocpractice-a924d.appspot.com</string>
+    <string name="project_id" translatable="false">blocpractice-a924d</string>
+</resources>

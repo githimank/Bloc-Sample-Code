@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "532498153331",
+    "project_id": "blocpractice-a924d",
+    "storage_bucket": "blocpractice-a924d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532498153331:android:6156dc77216b47836a4f06",
+        "android_client_info": {
+          "package_name": "com.example.bloc_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532498153331-efd4cmks8t70d0st2556m6abfe7mbbfl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bloc_practice",
+            "certificate_hash": "4d0c1ff6bd8c4009c6d33122de0df89703abdbd4"
+          }
+        },
+        {
+          "client_id": "532498153331-79g6catv31p0cvjdgab6gko5kh5jacln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMHyWTUsj0A1EDA0ngQH4VQWcHVzLQ70k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532498153331-79g6catv31p0cvjdgab6gko5kh5jacln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+com.example.bloc_practice.app-core-1.6.0-0 /Users/antino/.gradle/caches/transforms-3/31403c5ff3058da4da9bb079206b78fa/transformed/core-1.6.0/res
+com.example.bloc_practice.app-jetified-window-java-1.0.0-beta04-1 /Users/antino/.gradle/caches/transforms-3/33d12fc6c6c8fec446d6b2b168331c07/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.bloc_practice.app-jetified-window-1.0.0-beta04-2 /Users/antino/.gradle/caches/transforms-3/3bdc08e47eb69ea8886195fe1930e1d3/transformed/jetified-window-1.0.0-beta04/res
+com.example.bloc_practice.app-jetified-annotation-experimental-1.1.0-3 /Users/antino/.gradle/caches/transforms-3/3d233a68dcdd3de7534daf0f583400e2/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.bloc_practice.app-browser-1.4.0-4 /Users/antino/.gradle/caches/transforms-3/60cd853e2ccbf3b9e7a58da5b77a9d12/transformed/browser-1.4.0/res
+com.example.bloc_practice.app-jetified-firebase-common-20.2.0-5 /Users/antino/.gradle/caches/transforms-3/9dcca712b8282bf8dd8be646db29c038/transformed/jetified-firebase-common-20.2.0/res
+com.example.bloc_practice.app-jetified-play-services-basement-18.1.0-6 /Users/antino/.gradle/caches/transforms-3/bc9713ef8f7a101ae0fd6d41eed8e5be/transformed/jetified-play-services-basement-18.1.0/res
+com.example.bloc_practice.app-jetified-play-services-base-17.1.0-7 /Users/antino/.gradle/caches/transforms-3/da34e9093538c9e0ead7936eea38a75a/transformed/jetified-play-services-base-17.1.0/res
+com.example.bloc_practice.app-debug-8 /Users/antino/Documents/FLUTTER REPO/bloc_practice/android/app/src/debug/res
+com.example.bloc_practice.app-main-9 /Users/antino/Documents/FLUTTER REPO/bloc_practice/android/app/src/main/res
+com.example.bloc_practice.app-google-services-10 /Users/antino/Documents/FLUTTER REPO/bloc_practice/build/app/generated/res/google-services/debug
+com.example.bloc_practice.app-pngs-11 /Users/antino/Documents/FLUTTER REPO/bloc_practice/build/app/generated/res/pngs/debug
+com.example.bloc_practice.app-resValues-12 /Users/antino/Documents/FLUTTER REPO/bloc_practice/build/app/generated/res/resValues/debug
+com.example.bloc_practice.app-rs-13 /Users/antino/Documents/FLUTTER REPO/bloc_practice/build/app/generated/res/rs/debug
+com.example.bloc_practice.app-mergeDebugResources-14 /Users/antino/Documents/FLUTTER REPO/bloc_practice/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.bloc_practice.app-mergeDebugResources-15 /Users/antino/Documents/FLUTTER REPO/bloc_practice/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.bloc_practice.app-merged_res-16 /Users/antino/Documents/FLUTTER REPO/bloc_practice/build/app/intermediates/merged_res/debug
+com.example.bloc_practice.app-packaged_res-17 /Users/antino/Documents/FLUTTER REPO/bloc_practice/build/connectivity_plus/intermediates/packaged_res/debug
+com.example.bloc_practice.app-packaged_res-18 /Users/antino/Documents/FLUTTER REPO/bloc_practice/build/firebase_auth/intermediates/packaged_res/debug
+com.example.bloc_practice.app-packaged_res-19 /Users/antino/Documents/FLUTTER REPO/bloc_practice/build/firebase_core/intermediates/packaged_res/debug
